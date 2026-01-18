@@ -1,5 +1,8 @@
 ## Disclaimer
 This analysis is based on a simulated lab scenario and does not involve real production systems.
+## Tools Used
+- tcpdump
+- Network traffic analysis
 
 Cybersecurity Incident Report: 
 Network Traffic Analysis
